@@ -1,0 +1,15 @@
+player left with character Strength win,
+Game finished in 3 moves :)
+
+player right with character Agility win,
+Game finished in 10 moves :)
+
+player left with character Intelligence win,
+Game finished in 3 moves :)
+
+player left with character Intelligence win,
+Game finished in 5 moves :)
+
+player left with character Strength win,
+Game finished in 15 moves :)
+
